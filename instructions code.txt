@@ -1,5 +1,4 @@
-git clone --origin test https://github.com/samyns/test.git nom_du dossier
+git clone --origin test git@github.com:samyns/test.git nom_du dossier
 
-git remote set-url origin https://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@github.com/samyns/test
-
-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
+token api : 
+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
