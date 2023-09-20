@@ -1,4 +1,0 @@
-git clone --origin test git@github.com:samyns/test.git nom_du dossier
-
-token api : 
-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
